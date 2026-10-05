@@ -31,7 +31,7 @@ if (projectMain) {
   } else {
     const previous = projects[(index - 1 + projects.length) % projects.length];
     const next = projects[(index + 1) % projects.length];
-    document.title = `${project.title} — Arti House`;
+  document.title = `${project.title} — Arty House`;
     projectMain.innerHTML = `
       <section class="project-hero">
         <div class="project-title-block">
