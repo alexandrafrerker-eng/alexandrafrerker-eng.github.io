@@ -31,13 +31,12 @@ if (projectMain) {
   } else {
     const previous = projects[(index - 1 + projects.length) % projects.length];
     const next = projects[(index + 1) % projects.length];
-    document.title = `${project.title} — Alexandra Frerker`;
+    document.title = `${project.title} — Arti House`;
     projectMain.innerHTML = `
       <section class="project-hero">
         <div class="project-title-block">
           <p class="eyebrow">${project.number} — ${project.type}</p>
           <h1>${project.title}</h1>
-          <a class="behance-link" href="${project.behance}" target="_blank" rel="noreferrer">View full project on Behance <span aria-hidden="true">↗</span></a>
         </div>
         <figure><img src="${project.image}" alt="${project.title}" /></figure>
       </section>
