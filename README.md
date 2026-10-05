@@ -1,6 +1,6 @@
 # Alexandra Frerker portfolio
 
-A lightweight, self-contained portfolio site prepared for GitHub Pages. It includes twelve selected projects from the Arti House studio archive.
+A lightweight, self-contained portfolio site prepared for GitHub Pages. It includes twelve selected projects from the Arty House studio archive.
 
 ## Publish with GitHub Pages
 
