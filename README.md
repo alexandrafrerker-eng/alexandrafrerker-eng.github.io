@@ -1,6 +1,6 @@
 # Alexandra Frerker portfolio
 
-A lightweight, static portfolio site prepared for GitHub Pages. It includes only the first 12 projects currently shown on the Behance profile.
+A lightweight, self-contained portfolio site prepared for GitHub Pages. It includes twelve selected projects from the Arti House studio archive.
 
 ## Publish with GitHub Pages
 
